@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thoq-jar
-- 👀 I’m interested in Ai Development
-- 🌱 I’m currently learning Fabric
-- 💞️ I’m looking to collaborate on Fabric Client
+- 👀 I’m interested in AI Development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im Stupid :)
+- ⚡ Fun fact: I am stupid :)
 
 <!---
 Thoq-jar/Thoq-jar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
