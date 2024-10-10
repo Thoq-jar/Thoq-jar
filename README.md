@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thoq-jar
-- 👀 I’m interested in Low Level Development
+- 👀 I’m interested in ✨ speed ✨
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Discord @ Thoq.1
