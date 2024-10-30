@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thoq-jar
 - 👀 I’m interested in ✨ speed ✨
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Zig
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
