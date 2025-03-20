@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thoq-jar
 - 👀 I’m interested in ✨ speed ✨
 - 💞️ I’m looking to collaborate on something
-- 🌱 I’m currently learning Gleam
+- 🌱 I’m currently learning Go
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Haskell is an esoteric language
