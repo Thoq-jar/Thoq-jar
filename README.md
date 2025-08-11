@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Haskell is an esoteric language
+- ⚡ Fun fact: Haskell is an esoteric language (esotaric languages can still be fun)
 <!-- - 🌱 I’m currently learning -->
 
 <!---
