@@ -4,7 +4,7 @@
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Haskell is an esoteric language
-- 🌱 I’m currently learning OCaml
+- 🌱 I’m currently learning C++
 
 <!---
 Thoq-jar/Thoq-jar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
