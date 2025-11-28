@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Haskell is an esoteric language
 - 🌱 I’m currently learning C++
-<img width="192" height="341" alt="image" src="https://github.com/user-attachments/assets/a2571e62-faac-4bfb-b6f1-f424740f6086" />
+<img width="48" height="85" alt="image" src="https://github.com/user-attachments/assets/a2571e62-faac-4bfb-b6f1-f424740f6086" />
 
 <!---
 Thoq-jar/Thoq-jar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
