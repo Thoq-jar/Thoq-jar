@@ -4,7 +4,7 @@
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Haskell is an esoteric language
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning PyTorch
 <img width="48" height="85" alt="image" src="https://github.com/user-attachments/assets/a2571e62-faac-4bfb-b6f1-f424740f6086" />
 
 <!---
