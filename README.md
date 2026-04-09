@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thoq-jar
-- 👀 I’m interested in ✨ speed ✨
+- 👀 I like cats
 - 💞️ I’m looking for femboys (already found two: [@RareHyperion](https://github.com/RareHyperIonYT) and [@slqntdevss](https://github.com/slqntdevss))
 - 📫 How to reach me Discord @ Thoq.1
 - 😄 Pronouns: He/Him
