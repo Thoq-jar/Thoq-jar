@@ -5,8 +5,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Haskell is an esoteric language
 - 🌱 I’m currently learning PyTorch
-[<img width="48" height="85" alt="image" src="https://github.com/user-attachments/assets/a2571e62-faac-4bfb-b6f1-f424740f6086" />
-](https://cdn.discordapp.com/attachments/1263372909024514092/1509323821629440141/togif.gif?ex=6a1d6018&is=6a1c0e98&hm=6fcb5b4775c815fe8c82d467344d06ab42143106af08e2e0368c07caa05fd80d&)
+
+[raah](https://cdn.discordapp.com/attachments/1263372909024514092/1509323821629440141/togif.gif?ex=6a1d6018&is=6a1c0e98&hm=6fcb5b4775c815fe8c82d467344d06ab42143106af08e2e0368c07caa05fd80d&)
+
 <!---
 Thoq-jar/Thoq-jar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
